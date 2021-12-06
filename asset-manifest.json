@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ra-hw6-lifecycle-crud/static/css/main.8c72f5f1.chunk.css",
+    "main.js": "/ra-hw6-lifecycle-crud/static/js/main.dbe2b709.chunk.js",
+    "main.js.map": "/ra-hw6-lifecycle-crud/static/js/main.dbe2b709.chunk.js.map",
+    "runtime-main.js": "/ra-hw6-lifecycle-crud/static/js/runtime-main.90419966.js",
+    "runtime-main.js.map": "/ra-hw6-lifecycle-crud/static/js/runtime-main.90419966.js.map",
+    "static/js/2.bd0439c2.chunk.js": "/ra-hw6-lifecycle-crud/static/js/2.bd0439c2.chunk.js",
+    "static/js/2.bd0439c2.chunk.js.map": "/ra-hw6-lifecycle-crud/static/js/2.bd0439c2.chunk.js.map",
+    "index.html": "/ra-hw6-lifecycle-crud/index.html",
+    "static/css/main.8c72f5f1.chunk.css.map": "/ra-hw6-lifecycle-crud/static/css/main.8c72f5f1.chunk.css.map",
+    "static/js/2.bd0439c2.chunk.js.LICENSE.txt": "/ra-hw6-lifecycle-crud/static/js/2.bd0439c2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.90419966.js",
+    "static/js/2.bd0439c2.chunk.js",
+    "static/css/main.8c72f5f1.chunk.css",
+    "static/js/main.dbe2b709.chunk.js"
+  ]
+}
