@@ -1,0 +1,31 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.Notes-panel_wrapper {
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  margin-bottom: 2rem;
+}
+
+.Notes-panel_button-refresh {
+  background-color: white;
+  color: green;
+  width: 2rem;
+  height: 2rem;
+  border: 1px solid black;
+  border-radius: 50%;
+  margin-left: 1rem;
+  line-height: 0;
+}
+
+.Notes-panel_button-refresh:hover {
+  cursor: pointer;
+}
+
+.Notes-panel_notes-body {
+  display: flex;
+  flex-wrap: wrap;
+}
